@@ -41,7 +41,7 @@ This overview gives a top level view of the topics for each of our meetings. You
 |[April 23 - Culture & Data Futures]({{site.baseurl}}/schedule/27-culture-and-data-futures) |[April 25 - Review & Reflect]({{site.baseurl}}/schedule/28-review-and-reflect)|
 |[April 30 - Demo Day & Final Projects]({{site.baseurl}}/schedule/29-demo-day-and-final-projects) |
 -->
-
+<!---
 ## Assignment Schedule
 
 *Assignments will be added throughout the semester depending on how much material we get through.*
@@ -49,7 +49,7 @@ This overview gives a top level view of the topics for each of our meetings. You
 |Assignment | Due Date (Subject to Change) |
 | -----------------: | --------------: |
 | [Command Line Maze Assignments]({{site.baseurl}}/materials/introducing-humanities-computing/02-intro-cli-file-formats/#homework-exercises)| [September 4]({{site.baseurl}}/schedule/03-change-over-time-histories-of-computing/) |
-<!---
+
 | [Solve the Command Line Assignment]({{site.baseurl}}/materials/introducing-humanities-computing/03-intro-versioning#solve-the-cloned-corn-maze)| [January 30]({{site.baseurl}}/schedule/05-histories-of-power-and-data/) |
 | [Web Technologies & Markup Homework Assignments]({{site.baseurl}}/materials/introducing-humanities-computing/06-intro-markup#web-technologies--markup-homework-assignments)| [February 6]({{site.baseurl}}/schedule/07-power-hierarchies-data-feminism/) |
 | [Doing It Live: Hosting Your HTML Page Assignment]({{site.baseurl}}/materials/introducing-humanities-computing/07-intro-web#doing-it-live-hosting-your-html-page-assignment)| [February 8]({{site.baseurl}}/schedule/09-culture-as-data-and-data-cultures/) |
