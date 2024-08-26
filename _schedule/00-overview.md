@@ -22,10 +22,11 @@ This overview gives a top level view of the topics for each of our meetings. You
 
 |   Tuesday Topics (Explorations 🔭)  | Thursday Topics (Experimentations 🔬) |
 | -----------------: | --------------: |
-|[January 16 - Introducing Computing in the Humanities]({{site.baseurl}}/schedule/01-introducing-computing-in-the-humanities/) |[January 18 - Programming and Processing]({{site.baseurl}}/schedule/02-programming-and-processing/)|
-|[January 23 - Change over Time & Histories of Computing]({{site.baseurl}}/schedule/03-change-over-time-histories-of-computing/) |[January 25 - Version and File Histories]({{site.baseurl}}/schedule/04-version-file-histories/)|
-|[January 30 - Histories of Power & Data]({{site.baseurl}}/schedule/05-histories-of-power-and-data/) |[February 01 - Markup and Markdown]({{site.baseurl}}/schedule/06-markup-and-markdown/)|
-|[February 06 - Power Hierarchies & Data Feminism]({{site.baseurl}}/schedule/07-power-hierarchies-data-feminism/) |[February 08 - Scraped Off & Web Structures]({{site.baseurl}}/schedule/08-scraped-off-and-web-structures)|
+|[August 26 - Introducing Computing in the Humanities]({{site.baseurl}}/schedule/01-introducing-computing-in-the-humanities/) |[August 28 - Programming and Processing]({{site.baseurl}}/schedule/02-programming-and-processing/)|
+|[September 2 - Change over Time & Histories of Computing]({{site.baseurl}}/schedule/03-change-over-time-histories-of-computing/) |[September 4 - Version and File Histories]({{site.baseurl}}/schedule/04-version-file-histories/)|
+|[September 9- Histories of Power & Data]({{site.baseurl}}/schedule/05-histories-of-power-and-data/) |[September 11 - Markup and Markdown]({{site.baseurl}}/schedule/06-markup-and-markdown/)|
+|[September 16 - Power Hierarchies & Data Feminism]({{site.baseurl}}/schedule/07-power-hierarchies-data-feminism/) |[September 18 - Scraped Off & Web Structures]({{site.baseurl}}/schedule/08-scraped-off-and-web-structures)|
+<!---
 |[February 13 - Culture as Data & Data Cultures]({{site.baseurl}}/schedule/09-culture-as-data-and-data-cultures) |[February 15 - GETting Data]({{site.baseurl}}/schedule/10-getting-data)|
 |[February 20 - Culture at Scale & Digital Collections]({{site.baseurl}}/schedule/11-culture-at-scale-and-digital-collections) |[February 22 - Structuring Data]({{site.baseurl}}/schedule/12-structuring-data)|
 |[February 27 - T(r)ending and Cleaning]({{site.baseurl}}/schedule/13-trending-and-cleaning) |[February 29 - Curate & Collect]({{site.baseurl}}/schedule/14-curate-and-collect)|
@@ -38,6 +39,7 @@ This overview gives a top level view of the topics for each of our meetings. You
 |[April 16 - Preservation & Publications]({{site.baseurl}}/schedule/25-preservation-and-publications) |[April 18 - Serving Looks]({{site.baseurl}}/schedule/26-serving-looks)|
 |[April 23 - Culture & Data Futures]({{site.baseurl}}/schedule/27-culture-and-data-futures) |[April 25 - Review & Reflect]({{site.baseurl}}/schedule/28-review-and-reflect)|
 |[April 30 - Demo Day & Final Projects]({{site.baseurl}}/schedule/29-demo-day-and-final-projects) |
+-->
 
 ## Assignment Schedule
 
@@ -45,8 +47,9 @@ This overview gives a top level view of the topics for each of our meetings. You
 
 |Assignment | Due Date (Subject to Change) |
 | -----------------: | --------------: |
-| [Command Line Maze Assignments]({{site.baseurl}}/materials/introducing-humanities-computing/02-intro-cli-file-formats/#homework-exercises)| [January 23]({{site.baseurl}}/schedule/03-change-over-time-histories-of-computing/) |
-| [Command Line Maze Assignment 2]({{site.baseurl}}/materials/introducing-humanities-computing/materials/introducing-humanities-computing/02-intro-cli-file-formats/#assignment-2-time-to-get-lost-create-a-command-line-corn-maze)| [January 25]({{site.baseurl}}/schedule/04-version-file-histories/) |
+| [Command Line Maze Assignments]({{site.baseurl}}/materials/introducing-humanities-computing/02-intro-cli-file-formats/#homework-exercises)| [September 4]({{site.baseurl}}/schedule/03-change-over-time-histories-of-computing/) |
+<!---
+
 | [Solve the Command Line Assignment]({{site.baseurl}}/materials/introducing-humanities-computing/03-intro-versioning#solve-the-cloned-corn-maze)| [January 30]({{site.baseurl}}/schedule/05-histories-of-power-and-data/) |
 | [Web Technologies & Markup Homework Assignments]({{site.baseurl}}/materials/introducing-humanities-computing/06-intro-markup#web-technologies--markup-homework-assignments)| [February 6]({{site.baseurl}}/schedule/07-power-hierarchies-data-feminism/) |
 | [Doing It Live: Hosting Your HTML Page Assignment]({{site.baseurl}}/materials/introducing-humanities-computing/07-intro-web#doing-it-live-hosting-your-html-page-assignment)| [February 8]({{site.baseurl}}/schedule/09-culture-as-data-and-data-cultures/) |
@@ -56,3 +59,4 @@ This overview gives a top level view of the topics for each of our meetings. You
 | [Visualizing the Data Homework]({{site.baseurl}}/materials/interpreting-communicating-humanities-data/01-eda-data-viz#visualizing-the-data-homework) | [March 28]({{site.baseurl}}/schedule/20-making-it-count) |
 | [Making it Count Homework]({{site.baseurl}}/materials/interpreting-communicating-humanities-data/02-intro-text#making-it-count-homework) | [April 11]({{site.baseurl}}/schedule/24-edges-and-nodes) |
 | [Experimenting with Cultural Networks Homework]({{site.baseurl}}/materials/interpreting-communicating-humanities-data/04-intro-networks/#experimenting-with-cultural-networks-homework-optional-bonus) | [Optional Bonus Assignment - No Due Date]({{site.baseurl}}/schedule/00-overview/) |
+-->
