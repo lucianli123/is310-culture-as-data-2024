@@ -63,13 +63,13 @@ GitHub is free to use (part of its popularity) and once you have an account you 
 
 We will be delving into GitHub's functionality in the next few weeks, but first you will need to sign up for an account. You can sign up for an account here [https://github.com/join](https://github.com/join). GitHub provides additional documentation on [signing up for an account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account). In terms of selecting a username, I would recommend choosing something that you plan to use professionally.
 
-<div class="notice--info">⚡️ <del>As of Wednesday January 17 at 5pm, GitHub Education is not working correctly, so we cannot currently signup for the benefits. I'm hoping GitHub gets this fixed ASAP and there's currently a discussion thread about the issues here <a href="https://github.com/orgs/community/discussions/88611">https://github.com/orgs/community/discussions/88611</a> that you can also check. If it's been a few hours, I would recommend trying again but for now, hold off until this is fixed.</del> Now been fixed 🥳!</div>
-
 Once you have an account, you will also need to sign up for the GitHub Education Global Campus account [https://education.github.com/benefits](https://education.github.com/benefits). You can find step-by-step instructions on how to sign up here [https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-global-campus-for-students/apply-to-github-global-campus-as-a-student](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-global-campus-for-students/apply-to-github-global-campus-as-a-student), but you will need to use your `@illinois.edu` email and show proof of your student status (either ID or academic record).
 
 Getting approved might take a few days, but once you are approved, you will be able to not only create private repositories for free (we will get into what repositories are soon), but also use GitHub's AI coding tool called Co-Pilot. 
 
 Both GitHub and Co-Pilot are owned by Microsoft, which acquired the platform in 2018 for 7.5 Billion dollars[^1], and the platform has become the de facto platform for hosting code, with the platform recently announcing that they had over 100 million of users.[^2]
+
+Please download and install [https://desktop.github.com/download/](https://desktop.github.com/download/) as well. This will greatly simplify the process of managing different projects. 
 
 ### Considerations and Criticisms of GitHub
 
@@ -121,7 +121,7 @@ If for whatever reason you cannot get access, please let the instructor know and
 
 ## VS Code
 
-We will be using Visual Studio Code (VS Code) as our primary code editor for this course. You can download VS Code here [https://code.visualstudio.com/](https://code.visualstudio.com/) ~~though I would highly recommend you download the `Insiders Edition` [https://code.visualstudio.com/insiders/](https://code.visualstudio.com/insiders/)~~. You should be able to use the link above to download VS Code for Windows, Mac, and Linux.
+We will be using Visual Studio Code (VS Code) as our primary code editor for this course. You can download VS Code here [https://code.visualstudio.com/](https://code.visualstudio.com/) 
 
 Like GitHub and Co-Pilot, VS Code is also owned by Microsoft, which is why all three work relatively well together. VS Code is something called a Integrated Development Environment (IDE), which is a fancy way of saying it is a program for writing code. You can read more about IDEs here [https://en.wikipedia.org/wiki/Integrated_development_environment](https://en.wikipedia.org/wiki/Integrated_development_environment). Other popular IDEs include Atom, Sublime Text, and PyCharm. While you are welcome to use any IDE you want, I will be using VS Code in this course and I'm not sure that Co-Pilot works with other IDEs, so would highly encourage you to at least test it out.
 
@@ -215,317 +215,31 @@ Installing Python and getting it correctly configured is increasingly a very cha
    <figcaption>Python Environment by Russell Monroe</figcaption>
 </figure>
 
-#### Mac Installation
+Anaconda is a free and open-source distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment. You can read more about it here [https://en.wikipedia.org/wiki/Anaconda_(Python_distribution)](https://en.wikipedia.org/wiki/Anaconda_(Python_distribution)). You can download Anaconda here [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/success). You should be able to use the link above to download Anaconda for Windows, Mac, and Linux.
 
-You may have previously used Anaconda for installing Python on your Mac. Anaconda has a number of benefits, but also a number of drawbacks once you start getting deeper into programming. For this course, we will be trying our best to install Python without Anaconda, but if you are having trouble, please let the instructor know and we can try and find a solution.
+After downloading the installer, follow this guide [https://docs.anaconda.com/anaconda/install/](https://docs.anaconda.com/anaconda/install/)
 
-We'll largely be following the instructions from [https://realpython.com/installing-python/#how-to-install-python-on-macos](https://realpython.com/installing-python/#how-to-install-python-on-macos).
+If successful, you should be able to find a new program on your computer called "Anaconda Prompt". When you open it, it should say "(base) C:\Users\username>". This means that it is the base anaconda environment. You should NOT use this environment for general programming or installing packages as it is hard to debug if there are any bugs or mistakes. We will be creating a new anaconda environment, which is essentially a isolated subsection of your computer where we can install different python programs without breaking anything in the rest of the computer. 
 
-The first step is to check if you have Python installed on your computer. You can do this by opening up VS Code and then opening up the terminal. You can do this by clicking on either the `Terminal` menu option and then selecting `New Terminal`, or selecting `View` and then selecing the `Terminal` optional. You should see a terminal window open up at the bottom of your VS Code window, and can find more detailed information on this here [https://code.visualstudio.com/docs/terminal/basics](https://code.visualstudio.com/docs/terminal/basics).
+Run the command: conda create -n "is310" python=3.9 pandas nltk sklearn
 
-<figure>
-   <img src="{{site.baseurl}}/assets/images/vscode_terminal.png" alt="VS Code Terminal" style="width:100%" class="image-popup">
-   <figcaption>VS Code Terminal</figcaption>
-</figure>
+Respond y to any prompts. When done, you can activate it with: conda activate is310. You can close out anaconda prompt at this point. 
 
-Once you have your terminal open, you can check if you have Python installed by typing the following command:
+Anaconda should also be automatically connected to vscode. 
+Within VSCode, create a new ipynb notebook by navigating to file, new file, create a ipynb notebook in the center dropdown.
+![Screenshot 2024-08-26 135749](https://github.com/user-attachments/assets/9680b6e1-37fa-47fc-9892-712c06ee134e)
 
-```bash
-python --version
-```
+![Screenshot 2024-08-26 135851](https://github.com/user-attachments/assets/fdc50219-0a79-47b9-92fa-682e44da107d)
 
-This should show you the version of Python you have installed, and it is likely going to be 2.7 since that ships with Mac. Unfortunately, that version is now officially retired and so will you might come across a library or two using it, you'll end with a lot of errors if we don't upgrade (also you can check the old countdown clock for the migration from Python 2 to 3 [https://pythonclock.org/](https://pythonclock.org/)).
+Once you have an empty ipynb, open the environment menu on the left and select the is310 environment
+![Screenshot 2024-08-26 140502](https://github.com/user-attachments/assets/633aa3c7-09b1-418e-a9cd-645306925653)
 
-You should also double check that you have not already installed Python 3. You can do this by typing the following command:
+Run the command "import pandas as pd". If successful, you are done with setup!
 
-```bash
-python3 --version
-```
 
-If you have Python 3 installed, you should see something like this:
-
-```bash
-Python 3.9.7
-```
-
-While your version number might be different, you should see `Python 3` in the output. If you do not see `Python 3` in the output, then you will need to install Python 3.
-
-There's currently two ways to install Python on a Mac, using either the official installer or the [Homebrew package manager](https://brew.sh/). There's pros and cons to each, and so if you think you might be using Python quite a bit going forward I would recommend the Homebrew approach, but if you are not sure, then I would recommend the official installer.
-
-##### Homebrew Installation
-
-Open a browser and navigate to [http://brew.sh/](http://brew.sh/). You should see a command for installing Homebrew near the top of the page under the tile “Install Homebrew.” It should look something like this:
-  
-```sh
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-```
-
-Copy this command and paste it into the VS Code Terminal, and then press `enter`. You will be prompted to enter your computer password (i.e. the one you use to login into your Macbook). You will need to enter this password but you will not be able to see it as your typing. Once you have typed it, hit enter and then Homebrew will install. 
-
-You should also upgrade Homebrew by typing the following command into the terminal:
-
-```sh
-brew update && brew upgrade
-``` 
-
-This will take quite some time, so do not be concerned if it is taking an hour or more (more than that though there's probably an issue and you should contact the instructor).
-
-Once that's complete, you may also need to install Xcode Command Line Tools, by typing into the terminal:
-
-```sh
-xcode-select --install
-```
-If you already have Xcode installed, you'll see a message like this:
-
-```sh
-xcode-select: error: command line tools are already installed, use "Software Update" to install updates
-```
-
-Otherwise, you'll see a message about installing the tools, and you'll need to click `Install` to continue.
-
-To ensure that Homebrew works with your computer, you will need to add Homebrew to your path. You can do this by typing the following command into your terminal:
-
-```sh
-echo 'export PATH="/opt/homebrew/bin:$PATH"' >> ~/.zshrc
-```
-And then:
-
-```sh
-source ~/.zshrc
-```
-
-We will discuss what this is doing a bit more below, but for now, just know that it is making it so your computer uses Homebrew with Python.
-
-Then you will need to install Python 3 by typing the following command into your terminal:
-
-```sh
-brew install python3
-```
-
-You can check that you have Python 3 installed by typing the following command:
-
-```sh
-python3 --version
-```
-
-You should see something like this:
-
-```sh
-Python 3.9.7
-```
-
-While your version number might be different, you should see `Python 3` in the output.
-
-##### Official Installer
-
-You can download the official installer here [https://www.python.org/downloads/macos/](https://www.python.org/downloads/macos/). You should download the latest version of Python 3, which should be 3.12 and use the macOS 64-bit universal installer. Once downloaded, you should open the installer and follow the instructions. You can find more detailed instructions here [https://realpython.com/installing-python/#how-to-install-from-the-official-installer](https://realpython.com/installing-python/#how-to-install-from-the-official-installer).
-
-![Python Installer](https://realpython.com/installing-python/#how-to-install-from-the-official-installer)
-
-Once installed, you can check that you have Python 3 installed by typing the following command in the VS Code terminal:
-
-```sh
-python3 --version
-```
-
-You should see something like this:
-
-```sh
-Python 3.9.7
-```
-
-While your version number might be different, you should see `Python 3` in the output.
-
-#### Windows Installation (Somewhat Optional)
-
-If you have a previous version of Python installed on your Windows machine, you are welcome to use that rather than following the instructions below. I would highly recommend the setup described below if you have long term plans to use Python, but if you are not sure, then you can use your previous version of Python. However, even those this installation choice is optional, **you must be able to run Python.** So please reach out to the instructor if you are having trouble.
-
-We'll be following the instructions for using Python for web development on Windows [https://docs.microsoft.com/en-us/windows/python/web-frameworks](https://docs.microsoft.com/en-us/windows/python/web-frameworks) and [https://learn.microsoft.com/en-us/windows/python/beginners](https://learn.microsoft.com/en-us/windows/python/beginners).
-
-##### Installing WSL
-
-The first step is to install the Windows Subsystem for Linux following these steps [https://docs.microsoft.com/en-us/windows/python/web-frameworks#install-windows-subsystem-for-linux](https://docs.microsoft.com/en-us/windows/python/web-frameworks#install-windows-subsystem-for-linux).
-
-In either PowerShell or Command Prompt, run the following command as **an administrator**:
-
-```bash
-wsl --install
-```
-
-You will then be prompted to restart your computer. Once restarted, you will need to open PowerShell or Command Prompt again as an administrator and run the following command:
-
-```bash
-wsl --set-default-version 2
-```
-
-According to the instructions:
-> This command will enable the required optional components, download the latest Linux kernel, set WSL 2 as your default, and install a Linux distribution for you (Ubuntu by default, see below to change this).
-
-> The first time you launch a newly installed Linux distribution, a console window will open and you'll be asked to wait for files to de-compress and be stored on your machine. All future launches should take less than a second.
-
-
-After this you'll need to setup your WSL environment following these instructions [https://docs.microsoft.com/en-us/windows/wsl/setup/environment](https://docs.microsoft.com/en-us/windows/wsl/setup/environment).
-
-Specifically you'll need to set up your Linux username and password [https://docs.microsoft.com/en-us/windows/wsl/setup/environment#set-up-your-linux-username-and-password](https://docs.microsoft.com/en-us/windows/wsl/setup/environment#set-up-your-linux-username-and-password).
-
-![WSL Setup](https://docs.microsoft.com/en-us/windows/wsl/media/ubuntuinstall.png)
-
-Once setup, I would recommend first checking which version of WSL you are running and upgrading to WSL 2 if you are not already using it [https://docs.microsoft.com/en-us/windows/wsl/install#check-which-version-of-wsl-you-are-running](https://docs.microsoft.com/en-us/windows/wsl/install#check-which-version-of-wsl-you-are-running). And then I would recommend updating your packages for Ubuntu [https://docs.microsoft.com/en-us/windows/wsl/setup/environment#update-and-upgrade-packages](https://docs.microsoft.com/en-us/windows/wsl/setup/environment#update-and-upgrade-packages).
-
-###### Customizing Windows Terminal and VS Code
-
-Now that you have WSL installed, you can customize your Windows Terminal. I recommend using the [https://docs.microsoft.com/en-us/windows/wsl/setup/environment#set-up-windows-terminal](https://docs.microsoft.com/en-us/windows/wsl/setup/environment#set-up-windows-terminal) guide to customize your terminal.
-
-You should also familiarize yourself with working with files in WSL [https://docs.microsoft.com/en-us/windows/wsl/setup/environment#file-storage](https://docs.microsoft.com/en-us/windows/wsl/setup/environment#file-storage).
-
-Now you can get VS Code working with WSL by following these installation instructions for working with the Remote WSL Extension [https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode#install-vs-code-and-the-remote-wsl-extension](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode#install-vs-code-and-the-remote-wsl-extension).
-
-According to the docs:
-> In order to install the Remote-WSL extension, you will need the 1.35 May release version or later of VS Code. We do not recommend using WSL in VS Code without the Remote-WSL extension as you will lose support for auto-complete, debugging, linting, etc. Fun fact: this WSL extension is installed in $HOME/.vscode/extensions (enter the command ls $HOME\.vscode\extensions\ in PowerShell).
-
-Now you can open Windows Terminal or PowerShell and type:
-
-```bash
-code .
-```
-
-And that should start your VS Code Server
-![VS Code Server](https://docs.microsoft.com/en-us/windows/wsl/media/wsl-open-vs-code.gif)
-
-OR you can open VS Code and follow these instructions:
-> You can also access more VS Code Remote options by using the shortcut: CTRL+SHIFT+P in VS Code to bring up the command palette. If you then type Remote-WSL you will see a list of the VS Code Remote options available, allowing you to reopen the folder in a remote session, specify which distribution you want to open in, and more.
-
-![VS Code Remote Options](https://docs.microsoft.com/en-us/windows/wsl/media/vscode-remote-command-palette.png)
-
-#### Break In Case of Emergency (Google Colab or Anaconda)
-
-If, after consulting with the Instructor, you still cannot get Python installed, you do have installing Python via Anaconda or using Google Colab for this course. 
-
-Anaconda is a free and open-source distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment. You can read more about it here [https://en.wikipedia.org/wiki/Anaconda_(Python_distribution)](https://en.wikipedia.org/wiki/Anaconda_(Python_distribution)). You can download Anaconda here [https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual). You should be able to use the link above to download Anaconda for Windows, Mac, and Linux.
-
+If you run into problems with Anaconda, please consult the TA and instructor. The first few assignments can be completed on Google Colab. 
 Google Colab is a free cloud service that allows you to write and execute Python in your browser. You can read more about it here [https://colab.research.google.com/notebooks/intro.ipynb](https://colab.research.google.com/notebooks/intro.ipynb). You will need a Google account to use Colab, but you can use your @illinois.edu email.
 
-I would prefer that we only use these options in the most extreme circumstances, but wanted to share that it is available and an option.
-
-## Terminals and Oh-My-Zsh (Optional)
-
-Currently in VS Code, when you open a Terminal, you'll see somewhat gnarly looking text like this:
-
-```bash
-zoe@ZoeLeBlanc MINGW64 ~/Documents/GitHub/is310-computing-humanities-2024 (main)
-```
-
-This is because VS Code is using the default terminal, whether for Mac or Windows. 
-
-We will discuss more in-depth what terminals are in our Command Line session, but for now, you should know that a terminal is a bit like an app for working with files, but instead of clicking on icons, you write commands. You can read more about terminals here [https://en.wikipedia.org/wiki/Command-line_interface](https://en.wikipedia.org/wiki/Command-line_interface).
-
-Installing a separate terminal is completely optional since VS Code has built-in functionality, but in case you would like to try it out, I recommend iTerm2 [https://iterm2.com/](https://iterm2.com/) for Mac and the Windows Terminal [https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701) for Windows (for more info about Windows Terminal see [this blog post](https://towardsdatascience.com/new-windows-terminal-the-best-you-can-have-9945294707e7)). You should be able to use both these links to download the appropriate version for your operating system, but **please let the instructor know if you are having problems**.
-
-Once you have installed your terminal, you can customize it to be a little more human readable through using Oh-My-Zsh [https://ohmyz.sh/](https://ohmyz.sh/). This step is again optional, but I find having a nicer and more readable terminal is helpful for working with code.
-
-### Windows Installation
-
-[Zsh is a unix shell](https://en.wikipedia.org/wiki/Z_shell) and should be already installed on your WSL system. If not though you can install with the following:
-
-```bash
-sudo apt install zsh
-```
-
-Then you install oh-my-zsh with the following:
-
-```bash
-sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-```
-
-![install zsh](https://res.cloudinary.com/practicaldev/image/fetch/s--HnDFRLC1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5qpu02quwb9iwo6gguxg.png)
-
-You can find more in depth instructions here [https://dev.to/contactsunny/installing-zsh-and-oh-my-zsh-on-windows-11-with-wsl2-1p5i](https://dev.to/contactsunny/installing-zsh-and-oh-my-zsh-on-windows-11-with-wsl2-1p5i)
-
-### Mac Installation
-
-[Zsh is a unix shell](https://en.wikipedia.org/wiki/Z_shell) and should be already installed on your Mac.
-
-Install oh-my-zsh with the following:
-
-```bash
-sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-```
-
-![install zsh](https://res.cloudinary.com/practicaldev/image/fetch/s--HnDFRLC1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5qpu02quwb9iwo6gguxg.png)
-
-You can find more in depth instructions here [https://dev.to/hannahgooding/how-i-customise-my-terminal-with-oh-my-zsh-macos-427i](https://dev.to/hannahgooding/how-i-customise-my-terminal-with-oh-my-zsh-macos-427i)
-
-### PowerShell Alternative
-
-If you decided not to install WSL and our instead using PowerShell, rather than using `oh-my-zsh` which only works on unix/linux operating systems, you can instead install `oh-my-posh`, following these instructions [https://ohmyposh.dev/docs/installation/windows](https://ohmyposh.dev/docs/installation/windows). Again this step is optional but as you can see in the image below, these types of configurations do help make your terminal more human readable.
-
-<figure>
-   <a href="https://zimmergren.net/content/images/2021/03/terminal-oh-alien.png">
-      <img src="https://zimmergren.net/content/images/2021/03/terminal-oh-alien.png" alt="oh-my-posh" style="width:100%" class="image-popup">
-   </a>
-   <figcaption>oh-my-posh</figcaption>
-</figure>
-
-
-## Git
-
-### What is Git?
-
-![git logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
-
-![git example](https://www.nobledesktop.com/image/blog/git-branches-merge.png)
-
-You can read more about Git here [https://en.wikipedia.org/wiki/Git](https://en.wikipedia.org/wiki/Git) and here [https://git-scm.com/about](https://git-scm.com/about). Git is a version control system that allows you to track changes to files over time that was first created by Linus Torvals in 2005. It is a bit like Google Drive, but instead of just tracking changes to files, it also allows you to track changes to folders and directories. Somewhat confusingly, git is not the same as GitHub, though the two often are used together. We will be delving into these differences and how to use them later this week.
-
-#### Mac Installation
-
-Git should already be installed on your Mac, but you can check by opening up the VS Code terminal and typing:
-
-```bash
-git --version
-```
-
-If you do not have git installed, this will prompt you to install it. You can also install it by following these instructions [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
-
-
-#### Windows Installation
-
-Open the VS Code terminal and make sure that the WSL is selected as your terminal. You can do this by clicking on the `Terminal` menu option and then selecting `Select Default Profile`. You should see a list of options, and you should select `Ubuntu` or `Ubuntu-20.04` (or whatever version of Ubuntu you have installed).
-
-Now you first need to update the package list with the following command:
-
-```bash
-sudo apt update
-```
-
-Then you can install git with the following command:
-
-```bash
-sudo apt install git
-```
-
-You can check that git is installed by typing:
-
-```bash
-git --version
-```
-
-### Git Configuration
-
-Once you have git installed, you will need to configure it. You can do this by opening up the VS Code terminal and typing:
-
-```bash
-git config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"
-```
-
-Be sure to get both of these exactly right, as they are used to connect your GitHub account and git activity.
-
-You can also check your git configuration by typing:
-
-```bash
-git config --list
-```
 
 **CONGRATS YOU'VE SETUP YOUR COMPUTER 🎉**
 
