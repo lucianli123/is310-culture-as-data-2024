@@ -106,8 +106,8 @@ author:
   name             : "Lucian Li"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Student, Information Science"
-  location         : "Office Room 5143,<br> 614 E. Daniel St."
-  # email            : zleblanc@illinois.edu
+  location         : "5th floor MPR,<br> 614 E. Daniel St."
+  # email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
