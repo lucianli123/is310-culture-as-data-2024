@@ -226,12 +226,15 @@ Run the command: conda create -n "is310" python=3.9 pandas nltk sklearn
 Respond y to any prompts. When done, you can activate it with: conda activate is310. You can close out anaconda prompt at this point. 
 
 Anaconda should also be automatically connected to vscode. 
+
 Within VSCode, create a new ipynb notebook by navigating to file, new file, create a ipynb notebook in the center dropdown.
+
 ![Screenshot 2024-08-26 135749](https://github.com/user-attachments/assets/9680b6e1-37fa-47fc-9892-712c06ee134e)
 
 ![Screenshot 2024-08-26 135851](https://github.com/user-attachments/assets/fdc50219-0a79-47b9-92fa-682e44da107d)
 
-Once you have an empty ipynb, open the environment menu on the left and select the is310 environment
+Once you have an empty ipynb, open the environment menu on the left and select the is310 environment.
+
 ![Screenshot 2024-08-26 140502](https://github.com/user-attachments/assets/633aa3c7-09b1-418e-a9cd-645306925653)
 
 Run the command "import pandas as pd". If successful, you are done with setup!
