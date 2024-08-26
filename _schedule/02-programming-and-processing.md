@@ -2,7 +2,7 @@
 title: "Programming and Processing"
 permalink: /schedule/02-programming-and-processing/
 toc: true
-class_date: 2024-01-18
+class_date: 2024-08-26
 ---
 
 ## In-Class Agenda
