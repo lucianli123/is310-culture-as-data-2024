@@ -30,7 +30,7 @@ You should do your best to get through the majority of the installation instruct
    <figcaption>Our Slack Channel on DH@UIUC Slack Team</figcaption>
 </figure>
 
-Slack is a communication tool that we will use for this course. You can download the app for your computer or use the web version. You can also download the app for your phone. You will need to create an account and join the course channel `is310-2024` on `DH@UIUC` team. The link to join Slack is available on Canvas and in the syllabus, and you can add yourself to our channel or ask the Instructors for assistance. 
+Slack is a communication tool that we will use for this course. You can download the app for your computer or use the web version. You can also download the app for your phone. You will need to create an account and join the course channel `is310-2024-b` on `DH@UIUC` team. The link to join Slack is available on Canvas and in the syllabus, and you can add yourself to our channel or ask the Instructors for assistance. 
 
 I realize that Slack is less popular than a platform like Discord, but it is a very popular platform for Digital Humanities. In fact, the primary `DH Slack` Team is a great place to ask questions and get help from other DHers. You can read more about it and how this field uses Slack in this writeup by Amanda Visconti [https://literaturegeek.com/2016/07/06/digital-humanities-slack-community-design](https://literaturegeek.com/2016/07/06/digital-humanities-slack-community-design).
 
