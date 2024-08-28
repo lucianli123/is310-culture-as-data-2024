@@ -9,8 +9,7 @@ share: false
 comments: false
 show_date: true
 toc: true
-sidebar:
-    nav: "schedule"
+
 ---
 
 <div class="notice--info">⚡️ This schedule is subject to change depending on our collective progress this semester, so please treat this as a general guideline that is not set in stone. I will add assignments as we progress below, but you should generally expect to have both assigned materials and assignments each week.</div>
