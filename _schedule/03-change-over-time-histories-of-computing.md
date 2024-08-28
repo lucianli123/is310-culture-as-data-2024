@@ -2,7 +2,7 @@
 title: "Making it Count"
 permalink: /schedule/03-change-over-time-histories-of-computing/
 toc: true
-class_date: 2024-01-23
+class_date: 2024-09-04
 ---
 
 ## In-Class Agenda (Zoom Class)
