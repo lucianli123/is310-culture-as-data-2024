@@ -71,30 +71,6 @@ Both GitHub and Co-Pilot are owned by Microsoft, which acquired the platform in 
 
 Please download and install [https://desktop.github.com/download/](https://desktop.github.com/download/) as well. This will greatly simplify the process of managing different projects. 
 
-### Considerations and Criticisms of GitHub
-
-<figure>
-   <a href="https://github.blog/wp-content/uploads/2023/01/100million-header.png?resize=1200%2C627">
-      <img src="https://github.blog/wp-content/uploads/2023/01/100million-header.png?resize=1200%2C627" alt="100 million users" style="width:100%" class="image-popup">
-   </a>
-   <figcaption>100 million users</figcaption>
-</figure>
-
-These numbers sound impressive, but should also be concerning. The consolidation of code and data on a single platform raises questions about the centralization of knowledge and the power of a single company to control the future of software development, if not all technology writ large.
-
-While alternatives to GitHub exist (primarily [GitLab](https://about.gitlab.com/) or [Bitbucket](https://bitbucket.org/product)), it is hard to overstate how much in the last decade GitHub has become **the** platform for this type of work. Such a centralization is truly a double-edged sword. For example, GitHub has created what amounts to the largest code archive in the world through their GitHub Arctic Code Vault, an initiative to take a snapshot of all code hosted on their platform on February 2, 2020 and store it in the Svalbard Global Seed Vault. Such an initiative is impressive and was done in partnership with some academic institutions (the exact partners were the Long Now Foundation, the Internet Archive, the Software Heritage Foundation, Arctic World Archive, Microsoft Research, the Bodleian Library, and Stanford Libraries). But it also raises a number of ethical, archival, and political questions.
-
-<figure>
-   <a href="{{site.baseurl}}/assets/images/artic_code_vault.png">
-      <img src="{{site.baseurl}}/assets/images/artic_code_vault.png" alt="GitHub Arctic Code Vault" style="width:100%" class="image-popup">
-   </a>
-   <figcaption>GitHub Arctic Code Vault</figcaption>
-</figure>
-
-For example, this Arctic Code Vault has been criticized for its erasure of the indigenous Sami people who live on Svalbard and its performative approach to archives.[^3] GitHub also has contracts with U.S. Immigrations and Customs Enforcement (ICE) led to protests and boycotts from some sectors of the developer community.[^4] While we plan to use this platform, it's important to do so with these issues in mind. For more on these criticisms, see:
-
-- Fussell, Sidney. “The Schism at the Heart of the Open-Source Movement.” *The Atlantic*, January 3, 2020. [https://www.theatlantic.com/technology/archive/2020/01/ice-contract-github-sparks-developer-protests/604339/](https://www.theatlantic.com/technology/archive/2020/01/ice-contract-github-sparks-developer-protests/604339/).
-- Mackenzie, Adrian. “48 Million Configurations and Counting: Platform Numbers and Their Capitalization.” *Journal of Cultural Economy* 11, no. 1 (January 2, 2018): 36–53. [https://doi.org/10.1080/17530350.2017.1393443](https://doi.org/10.1080/17530350.2017.1393443). 
 
 ### Why Use GitHub for Digital Humanities/Computing in the Humanities?
 
