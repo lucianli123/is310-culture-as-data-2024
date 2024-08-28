@@ -63,14 +63,14 @@ GitHub is free to use (part of its popularity) and once you have an account you 
 
 We will be delving into GitHub's functionality in the next few weeks, but first you will need to sign up for an account. You can sign up for an account here [https://github.com/join](https://github.com/join). GitHub provides additional documentation on [signing up for an account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account). In terms of selecting a username, I would recommend choosing something that you plan to use professionally.
 
-Once you have an account, you will also need to sign up for the GitHub Education Global Campus account [https://education.github.com/benefits](https://education.github.com/benefits). You can find step-by-step instructions on how to sign up here [https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-global-campus-for-students/apply-to-github-global-campus-as-a-student](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-global-campus-for-students/apply-to-github-global-campus-as-a-student), but you will need to use your `@illinois.edu` email and show proof of your student status (either ID or academic record).
+Once you have an account, you will also need to sign up for the **GitHub Education Global Campus account [https://education.github.com/benefits](https://education.github.com/benefits).** You can find step-by-step instructions on how to sign up here [https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-global-campus-for-students/apply-to-github-global-campus-as-a-student](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-global-campus-for-students/apply-to-github-global-campus-as-a-student), but you will need to use your `@illinois.edu` email and show proof of your student status (either ID or academic record).
 
 Getting approved might take a few days, but once you are approved, you will be able to not only create private repositories for free (we will get into what repositories are soon), but also use GitHub's AI coding tool called Co-Pilot. 
 
 Both GitHub and Co-Pilot are owned by Microsoft, which acquired the platform in 2018 for 7.5 Billion dollars[^1], and the platform has become the de facto platform for hosting code, with the platform recently announcing that they had over 100 million of users.[^2]
 
-Please download and install [https://desktop.github.com/download/](https://desktop.github.com/download/) as well. This will greatly simplify the process of managing different projects. 
-
+**Please download and install [https://desktop.github.com/download/](https://desktop.github.com/download/) as well. This will greatly simplify the process of managing different projects. 
+**
 
 ### Why Use GitHub for Digital Humanities/Computing in the Humanities?
 
@@ -199,7 +199,7 @@ After downloading the installer, follow this guide [https://docs.anaconda.com/an
 
 If successful, you should be able to find a new program on your computer called "Anaconda Prompt". When you open it, it should say "(base) C:\Users\username>". This means that it is the base anaconda environment. You should NOT use this environment for general programming or installing packages as it is hard to debug if there are any bugs or mistakes. We will be creating a new anaconda environment, which is essentially a isolated subsection of your computer where we can install different python programs without breaking anything in the rest of the computer. 
 
-Run the command: conda create -n "is310" python=3.9 pandas nltk sklearn
+Run the command: conda create -n "is310" python=3.9 pandas nltk scikit-learn
 
 Respond y to any prompts. When done, you can activate it with: conda activate is310. You can close out anaconda prompt at this point. 
 
