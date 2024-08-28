@@ -23,8 +23,8 @@ This overview gives a top level view of the topics for each of our meetings. You
 | -----------------: | --------------: |
 |[August 26 - Introducing Computing in the Humanities]({{site.baseurl}}/schedule/01-introducing-computing-in-the-humanities/) |[August 28 - Programming and Processing]({{site.baseurl}}/schedule/02-programming-and-processing/)|
 
+|September 2 - Labor Day|[September 4 - Making it Count]({{site.baseurl}}/schedule/03-change-over-time-histories-of-computing/) |
 <!---
-|[September 4 - Change over Time & Histories of Computing]({{site.baseurl}}/schedule/03-change-over-time-histories-of-computing/) |[September 4 - Version and File Histories]({{site.baseurl}}/schedule/04-version-file-histories/)|
 |[September 9- Histories of Power & Data]({{site.baseurl}}/schedule/05-histories-of-power-and-data/) |[September 11 - Markup and Markdown]({{site.baseurl}}/schedule/06-markup-and-markdown/)|
 |[September 16 - Power Hierarchies & Data Feminism]({{site.baseurl}}/schedule/07-power-hierarchies-data-feminism/) |[September 18 - Scraped Off & Web Structures]({{site.baseurl}}/schedule/08-scraped-off-and-web-structures)|
 |[February 13 - Culture as Data & Data Cultures]({{site.baseurl}}/schedule/09-culture-as-data-and-data-cultures) |[February 15 - GETting Data]({{site.baseurl}}/schedule/10-getting-data)|
