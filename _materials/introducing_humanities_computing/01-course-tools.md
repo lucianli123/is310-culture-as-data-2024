@@ -115,7 +115,9 @@ Though this platform is very popular and useful for this course, we will do our 
 
 As part of our course, we will be using GitHub's new AI coding tool called Co-Pilot. Co-Pilot is a tool that uses machine learning to suggest code as you write. It is a bit like the auto-complete feature in Google Docs, but instead of just suggesting words, it suggests entire lines of code. You can read more about it here [https://copilot.github.com/](https://copilot.github.com/).
 
-As a student on GitHub, you should be able to get free access to Co-Pilot. You can read more about how to get access here [https://docs.github.com/en/github/copilot/getting-started-with-github-copilot](https://docs.github.com/en/github/copilot/getting-started-with-github-copilot). 
+As a student on GitHub, you should be able to get free access to Co-Pilot. You can read more about how to get access here [https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer). 
+
+Please wait until your GitHub student account has been successfully approved. 
 
 If for whatever reason you cannot get access, please let the instructor know and we can try and find a solution. Other tools that may be of use include ChatGPT (the free 3.5 version) or gpt4all (which is a bit more complicated to set up).
 
