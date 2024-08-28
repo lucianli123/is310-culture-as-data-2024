@@ -117,7 +117,7 @@ As part of our course, we will be using GitHub's new AI coding tool called Co-Pi
 
 As a student on GitHub, you should be able to get free access to Co-Pilot. You can read more about how to get access here [https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer). 
 
-Please wait until your GitHub student account has been successfully approved. 
+Please wait until your GitHub student account has been successfully approved before trying to enable it. It may take a while, so feel free to move on to the other parts of installation as you wait. 
 
 If for whatever reason you cannot get access, please let the instructor know and we can try and find a solution. Other tools that may be of use include ChatGPT (the free 3.5 version) or gpt4all (which is a bit more complicated to set up).
 
