@@ -25,4 +25,4 @@ Be sure to play around with a few different settings and words for the last two 
 
 ## Assignments
 
-- [ ] Complete the Counting Speeches assignment with your team. Due 9/13
+- [ ] Complete the Counting Speeches assignment with your team. Due 9/16
