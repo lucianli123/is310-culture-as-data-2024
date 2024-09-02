@@ -19,7 +19,20 @@ toc: true
 This overview gives a top level view of the topics for each of our meetings. You can either use the side navigation or click on a topic to jump to that section.
 
 
-|   Tuesday Topics (Explorations 🔭)  | Thursday Topics (Experimentations 🔬) |
+|   Monday topics (Discussions📚)  | Wednesday Topics (Labs🔬) |
 | -----------------: | --------------: |
 |[August 26 - Introducing Computing in the Humanities]({{site.baseurl}}/schedule/01-introducing-computing-in-the-humanities/) |[August 28 - Programming and Processing]({{site.baseurl}}/schedule/02-programming-and-processing/)|
 |September 2 - Labor Day|[September 4 - Making it Count]({{site.baseurl}}/schedule/03-change-over-time-histories-of-computing/)|
+|[September 9 - Data and Databases]({{site.baseurl}}/schedule/04-data-databases/)|[September 11 - Topics and Clustering]({{site.baseurl}}/schedule/05-topics-clustering/)|
+
+## Projects
+Remember that due dates for these are flexible. Assignments have an automatic one week extension with no questions. After that, please reach out to the instructors with your concerns and a plan for completion, and points will not be deducted for late work. 
+
+|   Assignment Name  | Due Date | Individual or Group|
+| -----------------: | --------------: |--------------:|
+| [Counting words]({{site.baseurl}}/schedule/assign-count-words/) | 9/16 | Individual |
+| Embeddings | 9/30 | Group |
+| Final Proposal | 9/30 | Group |
+| GETting Data | 10/15 | Group |
+
+
