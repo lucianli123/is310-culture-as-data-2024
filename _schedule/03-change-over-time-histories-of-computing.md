@@ -25,4 +25,5 @@ Be sure to play around with a few different settings and words for the last two 
 
 ## Assignments
 
-- [ ] Complete the Counting Speeches assignment with your team. Due 9/16
+- [ ] Complete the [Counting Words](https://lucianli123.github.io/is310-culture-as-data-2024/schedule/assignment-counting-words/) assignment with your team. Due 9/15
+- [ ] Complete a Canvas post for next Monday's readings by Sunday 
