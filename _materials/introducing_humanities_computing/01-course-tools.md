@@ -199,7 +199,7 @@ After downloading the installer, follow this guide [https://docs.anaconda.com/an
 
 If successful, you should be able to find a new program on your computer called "Anaconda Prompt". When you open it, it should say "(base) C:\Users\username>". This means that it is the base anaconda environment. You should NOT use this environment for general programming or installing packages as it is hard to debug if there are any bugs or mistakes. We will be creating a new anaconda environment, which is essentially a isolated subsection of your computer where we can install different python programs without breaking anything in the rest of the computer. 
 
-Run the command: conda create -n "is310" python=3.9 pandas nltk scikit-learn
+Run the command: conda create -n is310 python=3.9 pandas nltk scikit-learn jupyter
 
 Respond y to any prompts. When done, you can activate it with: conda activate is310. You can close out anaconda prompt at this point. 
 
