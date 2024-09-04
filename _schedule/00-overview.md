@@ -30,7 +30,7 @@ Remember that due dates for these are flexible. Assignments have an automatic on
 
 |   Assignment Name  | Due Date | Individual or Group|
 | -----------------: | --------------: |--------------:|
-| [Counting words]({{site.baseurl}}/schedule/assignments-counting-words/) | 9/16 | Individual |
+| [Counting words](https://github.com/lucianli123/project1-counting-words/tree/main) | 9/16 | Individual |
 | Embeddings | 9/30 | Group |
 | Final Proposal | 9/30 | Group |
 | GETting Data | 10/15 | Group |
