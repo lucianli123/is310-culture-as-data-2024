@@ -8,7 +8,7 @@ class_date: 2024-09-9
 ## In-Class Agenda
 
 - [x] Discuss our readings
-- [x] Work on [generate your own dataset](https://lucianli123.github.io/is310-culture-as-data-2024/dataset-creation) activity
+- [x] Pandas demo and project questions
 
 ## Assigned Materials
 
