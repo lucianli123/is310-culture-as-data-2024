@@ -5,7 +5,7 @@ toc: true
 class_date: 2024-09-04
 ---
 
-## In-Class Agenda (Zoom Class)
+## In-Class Agenda
 
 - [x] Discuss the assigned readings.
 - [ ] Introduction to Bag of Words, N-grams, and TF-IDF
@@ -25,5 +25,5 @@ Be sure to play around with a few different settings and words for the last two 
 
 ## Assignments
 
-- [ ] Complete the [Counting Words](https://lucianli123.github.io/is310-culture-as-data-2024/schedule/assignments-counting-words/) assignment. Due 9/16
+- [ ] Complete the [Counting Words](https://github.com/lucianli123/project1-counting-words/tree/main) assignment. Due 9/16
 - [ ] Complete a Canvas post for next Monday's readings by Sunday 
