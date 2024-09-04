@@ -1,8 +1,8 @@
 ---
 title: "Data and Databases"
-permalink: /schedule/04-data-databases/
+permalink: /schedule/04-topics-and-clustering/
 toc: true
-class_date: 2024-09-9
+class_date: 2024-09-11
 ---
 
 ## In-Class Agenda
