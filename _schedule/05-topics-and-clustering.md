@@ -1,6 +1,6 @@
 ---
 title: "Data and Databases"
-permalink: /schedule/04-topics-and-clustering/
+permalink: /schedule/05-topics-and-clustering/
 toc: true
 class_date: 2024-09-11
 ---
