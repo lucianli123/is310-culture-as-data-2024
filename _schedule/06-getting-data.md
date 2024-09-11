@@ -1,6 +1,6 @@
 ---
 title: "How do we get data?"
-permalink: /schedule/06-getting-data
+permalink: /schedule/06-getting-data/
 toc: true
 class_date: 2024-9-16
 ---
