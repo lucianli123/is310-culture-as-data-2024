@@ -9,7 +9,7 @@ class_date: 2024-09-11
 
 - [x] Go over this week's readings
 - [x] Discuss project progress
-- [x] Topic modelling demo
+- [x] Topic modelling demo [https://github.com/lucianli123/topic-demo](https://github.com/lucianli123/topic-demo)
 
 ## Assignments
 
