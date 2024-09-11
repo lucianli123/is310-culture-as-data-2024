@@ -1,8 +1,8 @@
 ---
 title: "How do we get data?"
-permalink: /schedule/11-culture-at-scale-and-digital-collections
+permalink: /schedule/06-getting-data
 toc: true
-class_date: 2024-02-20
+class_date: 2024-9-16
 ---
 
 ## In-Class Agenda
@@ -20,3 +20,4 @@ class_date: 2024-02-20
 ## Assignments
 
 - [ ] Complete the Web Scraping Project
+- [ ] Meet with group members about project details
