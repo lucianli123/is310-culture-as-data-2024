@@ -24,6 +24,7 @@ This overview gives a top level view of the topics for each of our meetings. You
 |[August 26 - Introducing Computing in the Humanities]({{site.baseurl}}/schedule/01-introducing-computing-in-the-humanities/) |[August 28 - Programming and Processing]({{site.baseurl}}/schedule/02-programming-and-processing/)|
 |September 2 - Labor Day|[September 4 - Making it Count]({{site.baseurl}}/schedule/03-change-over-time-histories-of-computing/)|
 |[September 9 - Data and Databases]({{site.baseurl}}/schedule/04-data-databases/)|[September 11 - Topics and Clustering]({{site.baseurl}}/schedule/05-topics-and-clustering/)|
+|[September 16 - Getting Data]({{site.baseurl}}/schedule/06-getting-data/)|[September 18 - Web Scraping]({{site.baseurl}}/schedule/07-web-scraping/)|
 
 ## Projects
 Remember that due dates for these are flexible. Assignments have an automatic one week extension with no questions. After that, please reach out to the instructors with your concerns and a plan for completion, and points will not be deducted for late work. 
