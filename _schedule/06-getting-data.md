@@ -19,5 +19,6 @@ class_date: 2024-9-16
 
 ## Assignments
 
-- [ ] Complete the Web Scraping Project
+- [ ] Complete the Web Scraping Project (Due 9/30)
 - [ ] Meet with group members about project details
+- [ ] Proposal due 9/30
