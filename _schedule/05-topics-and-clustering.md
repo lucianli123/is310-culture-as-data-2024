@@ -7,6 +7,7 @@ class_date: 2024-09-11
 
 ## In-Class Agenda
 
+- [x] Go over this week's readings
 - [x] Discuss project progress
 - [x] Topic modelling demo
 
