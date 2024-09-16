@@ -25,15 +25,15 @@ This overview gives a top level view of the topics for each of our meetings. You
 |September 2 - Labor Day|[September 4 - Making it Count]({{site.baseurl}}/schedule/03-change-over-time-histories-of-computing/)|
 |[September 9 - Data and Databases]({{site.baseurl}}/schedule/04-data-databases/)|[September 11 - Topics and Clustering]({{site.baseurl}}/schedule/05-topics-and-clustering/)|
 |[September 16 - Getting Data]({{site.baseurl}}/schedule/06-getting-data/)|[September 18 - Web Scraping]({{site.baseurl}}/schedule/07-web-scraping/)|
-
+|[September 23 - Collecting Infrastructures]({{site.baseurl}}/schedule/08-collections/)|[September 25 - APIs]({{site.baseurl}}/schedule/08-apis/)|
 ## Projects
 Remember that due dates for these are flexible. Assignments have an automatic one week extension with no questions. After that, please reach out to the instructors with your concerns and a plan for completion, and points will not be deducted for late work. 
 
 |   Assignment Name  | Due Date | Individual or Group|
 | -----------------: | --------------: |--------------:|
 | [Counting words](https://github.com/lucianli123/project1-counting-words/tree/main) | 9/16 | Individual |
-| Embeddings | 9/30 | Group |
-| Final Proposal | 9/30 | Group |
-| GETting Data | 10/15 | Group |
+| [Scraping and APIs](https://github.com/lucianli123/project2-api) | 9/30 | Individual |
+| [Final Proposal](https://docs.google.com/document/d/1R64xw_oFINtO-XhuSry771zzT-ePb8OD9cIvTJtp7tA/edit?usp=sharing) | 9/30 | Group |
+| Embeddings and Neural Networks | 10/15 | Group |
 
 
