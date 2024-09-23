@@ -25,7 +25,8 @@ This overview gives a top level view of the topics for each of our meetings. You
 |September 2 - Labor Day|[September 4 - Making it Count]({{site.baseurl}}/schedule/03-change-over-time-histories-of-computing/)|
 |[September 9 - Data and Databases]({{site.baseurl}}/schedule/04-data-databases/)|[September 11 - Topics and Clustering]({{site.baseurl}}/schedule/05-topics-and-clustering/)|
 |[September 16 - Getting Data]({{site.baseurl}}/schedule/06-getting-data/)|[September 18 - Web Scraping]({{site.baseurl}}/schedule/07-web-scraping/)|
-|[September 23 - Collecting Infrastructures]({{site.baseurl}}/schedule/08-collections/)|[September 25 - APIs]({{site.baseurl}}/schedule/08-apis/)|
+|[September 23 - Collecting Infrastructures]({{site.baseurl}}/schedule/08-collections/)|[September 25 - APIs]({{site.baseurl}}/schedule/09-apis/)|
+|[September 30 - Datasets and Data Cleaning]({{site.baseurl}}/schedule/10-datasets/)|[October 1 - Data Preprocessing, cleaning, etc]({{site.baseurl}}/schedule/11-cleaning/)|
 
 ## Projects
 Remember that due dates for these are flexible. Assignments have an automatic one week extension with no questions. After that, please reach out to the instructors with your concerns and a plan for completion, and points will not be deducted for late work. 
