@@ -1,6 +1,6 @@
 ---
 title: "T(r)ending and Cleaning"
-permalink: /schedule/13-datasets/
+permalink: /schedule/10-datasets/
 toc: true
 class_date: 2024-09-23
 ---
