@@ -1,8 +1,8 @@
 ---
 title: "T(r)ending and Cleaning"
-permalink: /schedule/13-trending-and-cleaning
+permalink: /schedule/13-datasets/
 toc: true
-class_date: 2024-02-27
+class_date: 2024-09-23
 ---
 
 ## In-Class Agenda
