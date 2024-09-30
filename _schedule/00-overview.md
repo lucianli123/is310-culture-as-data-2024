@@ -36,6 +36,6 @@ Remember that due dates for these are flexible. Assignments have an automatic on
 | [Counting words](https://github.com/lucianli123/project1-counting-words/tree/main) | 9/16 | Individual |
 | [Scraping and APIs](https://github.com/lucianli123/project2-api) | 9/30 | Individual |
 | [Final Proposal](https://docs.google.com/document/d/1R64xw_oFINtO-XhuSry771zzT-ePb8OD9cIvTJtp7tA/edit?usp=sharing) | 9/30 | Group |
-| Embeddings and Neural Networks | 10/15 | Group |
+| Embeddings and Neural Networks | 10/22 | Group |
 
 
