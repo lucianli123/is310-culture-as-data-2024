@@ -26,8 +26,10 @@ This overview gives a top level view of the topics for each of our meetings. You
 |[September 9 - Data and Databases]({{site.baseurl}}/schedule/04-data-databases/)|[September 11 - Topics and Clustering]({{site.baseurl}}/schedule/05-topics-and-clustering/)|
 |[September 16 - Getting Data]({{site.baseurl}}/schedule/06-getting-data/)|[September 18 - Web Scraping]({{site.baseurl}}/schedule/07-web-scraping/)|
 |[September 23 - Collecting Infrastructures]({{site.baseurl}}/schedule/08-collections/)|[September 25 - APIs]({{site.baseurl}}/schedule/09-apis/)|
-|[September 30 - Datasets and Data Cleaning]({{site.baseurl}}/schedule/10-datasets/)|[October 1 - Data Preprocessing, cleaning, etc]({{site.baseurl}}/schedule/11-cleaning/)|
-|[October 7 - Spaces of Culture]({{site.baseurl}}/schedule/12-spaces/)|[October 9 - Embeddings and Neural Networks](https://github.com/lucianli123/embeddings-demo)|
+|[September 30 - Datasets and Data Cleaning]({{site.baseurl}}/schedule/10-datasets/)|[October 1 - Data Preprocessing, cleaning, etc](https://github.com/lucianli123/embeddings-demo)|
+|[October 7 - Spaces of Culture]({{site.baseurl}}/schedule/12-spaces/)|[October 9 - Embeddings and Neural Networks]()|
+|[October 14 - Language Modelling]({{site.baseurl}}/schedule/13-llms/) | [October 16 - HuggingFace and LLMs]()|
+
 
 ## Projects
 Remember that due dates for these are flexible. Assignments have an automatic one week extension with no questions. After that, please reach out to the instructors with your concerns and a plan for completion, and points will not be deducted for late work. 
