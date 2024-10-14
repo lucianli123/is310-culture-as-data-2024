@@ -29,6 +29,7 @@ This overview gives a top level view of the topics for each of our meetings. You
 |[September 30 - Datasets and Data Cleaning]({{site.baseurl}}/schedule/10-datasets/)|[October 1 - Data Preprocessing, cleaning, etc](https://github.com/lucianli123/embeddings-demo)|
 |[October 7 - Spaces of Culture]({{site.baseurl}}/schedule/12-spaces/)|[October 9 - Embeddings and Neural Networks](https://docs.google.com/document/d/18ewRpeb8RR42ExBqrKgbm2tHG5mh-Xuq-moKMJPgL6k/edit?usp=sharing)|
 |[October 14 - Language Modelling]({{site.baseurl}}/schedule/13-llms/) | [October 16 - HuggingFace and LLMs]()|
+|[October 21 - Prompts and Agents]({{site.baseurl}}/schedule/14-prompting/) | [October 23 - Class Cancelled (instructor travelling)]()|
 
 
 ## Projects
