@@ -31,7 +31,7 @@ This overview gives a top level view of the topics for each of our meetings. You
 |[October 14 - Language Modelling]({{site.baseurl}}/schedule/13-llms/) | [October 16 - HuggingFace and LLMs](https://github.com/lucianli123/huggingface-demo)|
 |[October 21 - Prompts and Agents]({{site.baseurl}}/schedule/14-prompting/) | [October 23 - Class Cancelled (instructor travelling)]()|
 |[October 28 - Images]({{site.baseurl}}/schedule/15-images/) | [October 30 - CNNs and Image Processing)]()|
-
+|[November 4 - Networks]({{site.baseurl}}/schedule/16-networks/)| [November 6 - Network Analysis at Scale)]()|
 
 ## Projects
 Remember that due dates for these are flexible. Assignments have an automatic one week extension with no questions. After that, please reach out to the instructors with your concerns and a plan for completion, and points will not be deducted for late work. 
