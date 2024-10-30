@@ -30,7 +30,7 @@ This overview gives a top level view of the topics for each of our meetings. You
 |[October 7 - Spaces of Culture]({{site.baseurl}}/schedule/12-spaces/)|[October 9 - Embeddings and Neural Networks](https://docs.google.com/document/d/18ewRpeb8RR42ExBqrKgbm2tHG5mh-Xuq-moKMJPgL6k/edit?usp=sharing)|
 |[October 14 - Language Modelling]({{site.baseurl}}/schedule/13-llms/) | [October 16 - HuggingFace and LLMs](https://github.com/lucianli123/huggingface-demo)|
 |[October 21 - Prompts and Agents]({{site.baseurl}}/schedule/14-prompting/) | [October 23 - Class Cancelled (instructor travelling)]()|
-|[October 28 - Images]({{site.baseurl}}/schedule/15-images/) | [October 30 - CNNs and Image Processing)]()|
+|[October 28 - Images]({{site.baseurl}}/schedule/15-images/) | [October 30 - CNNs and Image Processing)](https://github.com/lucianli123/llm-api-demo)|
 |[November 4 - Networks]({{site.baseurl}}/schedule/16-networks/)| [November 6 - Network Analysis at Scale)]()|
 
 ## Projects
