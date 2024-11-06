@@ -32,7 +32,7 @@ This overview gives a top level view of the topics for each of our meetings. You
 |[October 21 - Prompts and Agents]({{site.baseurl}}/schedule/14-prompting/) | [October 23 - Class Cancelled (instructor travelling)]()|
 |[October 28 - Images]({{site.baseurl}}/schedule/15-images/) | [October 30 - CNNs and Image Processing)](https://github.com/lucianli123/llm-api-demo)|
 |[November 4 - Networks]({{site.baseurl}}/schedule/16-networks/)| [November 6 - Network Analysis at Scale)](https://github.com/lucianli123/project4-graphs-llms)|
-|[November 11 - Visualization]({{site.baseurl}}/schedule/17-visualization/)| [November 13 - Visualization)]()|
+|[November 11 - Geographic Visualization]({{site.baseurl}}/schedule/17-GIS/)| [November 13 - GIS)]()|
 
 ## Projects
 Remember that due dates for these are flexible. Assignments have an automatic one week extension with no questions. After that, please reach out to the instructors with your concerns and a plan for completion, and points will not be deducted for late work. 
