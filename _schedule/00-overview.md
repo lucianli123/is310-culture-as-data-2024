@@ -32,7 +32,8 @@ This overview gives a top level view of the topics for each of our meetings. You
 |[October 21 - Prompts and Agents]({{site.baseurl}}/schedule/14-prompting/) | [October 23 - Class Cancelled (instructor travelling)]()|
 |[October 28 - Images]({{site.baseurl}}/schedule/15-images/) | [October 30 - CNNs and Image Processing)](https://github.com/lucianli123/llm-api-demo)|
 |[November 4 - Networks]({{site.baseurl}}/schedule/16-networks/)| [November 6 - Network Analysis at Scale)](https://github.com/lucianli123/project4-graphs-llms)|
-|[November 11 - Geographic Visualization]({{site.baseurl}}/schedule/17-GIS/)| [November 13 - GIS)]()|
+|[November 11 - Geographic Visualization]({{site.baseurl}}/schedule/17-GIS/)| [November 13 - GIS)](https://github.com/lucianli123/mapping-demo)|
+|[November 18 - OCR and Digital Archives]({{site.baseurl}}/schedule/18-ocr/)| [November 20 - Static Sites)]()|
 
 ## Projects
 Remember that due dates for these are flexible. Assignments have an automatic one week extension with no questions. After that, please reach out to the instructors with your concerns and a plan for completion, and points will not be deducted for late work. 
@@ -45,4 +46,5 @@ Remember that due dates for these are flexible. Assignments have an automatic on
 | [Embeddings and Neural Networks](https://github.com/lucianli123/project3-embeddings) | 10/23 | Individual |
 | [Final Project Data Update](https://docs.google.com/document/d/1xhEW3CKEZ_XKzvAhbtv5jWMlE-6uFReMo3s6nYnQNKw/edit?usp=sharing) | 11/4 | Group |
 | [LLMs and Networks](https://github.com/lucianli123/project4-graphs-llms) | 11/20 | Individual |
-
+| [Final presentation](https://docs.google.com/document/d/1hHkFzTwmGNWSIy9S_vWu_-5MGztfuHwrtG4cnVSDECA/edit?usp=sharing) | 12/2 and 12/4 | Group |
+| [Final report](https://lucianli123.github.io/is310-culture-as-data-2024/assessments/04-example-project) | 12/15 | Group |
