@@ -8,7 +8,6 @@ author_profile: false
 share: false
 comments: false
 show_date: true
-toc: true
 
 ---
 
@@ -19,32 +18,32 @@ toc: true
 This overview gives a top level view of the topics for each of our meetings. You can either use the side navigation or click on a topic to jump to that section.
 
 
-|   Monday topics (Discussions📚)  | Wednesday Topics (Labs🔬) |
+|   Tuesday topics (Discussions📚)  | Thursday Topics (Labs🔬) |
 | -----------------: | --------------: |
-|[August 26 - Introducing Computing in the Humanities]({{site.baseurl}}/schedule/01-introducing-computing-in-the-humanities/) |[August 28 - Programming and Processing]({{site.baseurl}}/schedule/02-programming-and-processing/)|
-|September 2 - Labor Day|[September 4 - Making it Count]({{site.baseurl}}/schedule/03-change-over-time-histories-of-computing/)|
-|[September 9 - Data and Databases]({{site.baseurl}}/schedule/04-data-databases/)|[September 11 - Topics and Clustering]({{site.baseurl}}/schedule/05-topics-and-clustering/)|
-|[September 16 - Getting Data]({{site.baseurl}}/schedule/06-getting-data/)|[September 18 - Web Scraping]({{site.baseurl}}/schedule/07-web-scraping/)|
-|[September 23 - Collecting Infrastructures]({{site.baseurl}}/schedule/08-collections/)|[September 25 - APIs]({{site.baseurl}}/schedule/09-apis/)|
-|[September 30 - Datasets and Data Cleaning]({{site.baseurl}}/schedule/10-datasets/)|[October 1 - Data Preprocessing, cleaning, etc](https://github.com/lucianli123/embeddings-demo)|
-|[October 7 - Spaces of Culture]({{site.baseurl}}/schedule/12-spaces/)|[October 9 - Embeddings and Neural Networks](https://docs.google.com/document/d/18ewRpeb8RR42ExBqrKgbm2tHG5mh-Xuq-moKMJPgL6k/edit?usp=sharing)|
-|[October 14 - Language Modelling]({{site.baseurl}}/schedule/13-llms/) | [October 16 - HuggingFace and LLMs](https://github.com/lucianli123/huggingface-demo)|
-|[October 21 - Prompts and Agents]({{site.baseurl}}/schedule/14-prompting/) | [October 23 - Class Cancelled (instructor travelling)]()|
-|[October 28 - Images]({{site.baseurl}}/schedule/15-images/) | [October 30 - CNNs and Image Processing)](https://github.com/lucianli123/llm-api-demo)|
-|[November 4 - Networks]({{site.baseurl}}/schedule/16-networks/)| [November 6 - Network Analysis at Scale)](https://github.com/lucianli123/project4-graphs-llms)|
-|[November 11 - Geographic Visualization]({{site.baseurl}}/schedule/17-GIS/)| [November 13 - GIS)](https://github.com/lucianli123/mapping-demo)|
-|[November 18 - OCR and Digital Archives]({{site.baseurl}}/schedule/18-ocr/)| [November 20 - Static Sites)]()|
+|[1/21 - Introducing Computing in the Humanities]({{site.baseurl}}/schedule/01-introducing-computing-in-the-humanities/) |[1/23 - Programming and Processing]({{site.baseurl}}/schedule/02-programming-and-processing/)|
+|[1/28 - Processing data]({{site.baseurl}}/schedule/19-data/)|[1/30 - Making it Count]({{site.baseurl}}/schedule/03-change-over-time-histories-of-computing/)|
+|[2/4 - Data and Databases]({{site.baseurl}}/schedule/04-data-databases/)|[2/6 - Topics and Clustering]({{site.baseurl}}/schedule/05-topics-and-clustering/)|
+|[2/11 - Getting Data]({{site.baseurl}}/schedule/06-getting-data/)|[2/13 - Web Scraping]({{site.baseurl}}/schedule/07-web-scraping/)|
+|[2/18 - Collecting Infrastructures]({{site.baseurl}}/schedule/08-collections/)|[2/20 - APIs]({{site.baseurl}}/schedule/09-apis/)|
+|[2/25 - Datasets and Data Cleaning]({{site.baseurl}}/schedule/10-datasets/)|[2/27 - Data Preprocessing, cleaning, etc](https://github.com/lucianli123/embeddings-demo)|
+|[3/4 - Spaces of Culture]({{site.baseurl}}/schedule/12-spaces/)|[3/6 - Embeddings and Neural Networks](https://docs.google.com/document/d/18ewRpeb8RR42ExBqrKgbm2tHG5mh-Xuq-moKMJPgL6k/edit?usp=sharing)|
+|[3/11 - Language Modelling]({{site.baseurl}}/schedule/13-llms/) | [3/13 - HuggingFace and LLMs](https://github.com/lucianli123/huggingface-demo)|
+|[3/18 - Prompts and Agents]({{site.baseurl}}/schedule/14-prompting/) | [3/20 - Class Cancelled (instructor travelling)]()|
+|[3/25 - Images]({{site.baseurl}}/schedule/15-images/) | [3/27 - CNNs and Image Processing)](https://github.com/lucianli123/llm-api-demo)|
+|[4/1 - Networks]({{site.baseurl}}/schedule/16-networks/)| [4/3 - Network Analysis at Scale)](https://github.com/lucianli123/project4-graphs-llms)|
+|[4/8 - Geographic Visualization]({{site.baseurl}}/schedule/17-GIS/)| [4/10 - GIS)](https://github.com/lucianli123/mapping-demo)|
+|[4/15 - OCR and Digital Archives]({{site.baseurl}}/schedule/18-ocr/)| [4/17 - Static Sites)]()|
 
 ## Projects
 Remember that due dates for these are flexible. Assignments have an automatic one week extension with no questions. After that, please reach out to the instructors with your concerns and a plan for completion, and points will not be deducted for late work. 
 
 |   Assignment Name  | Due Date | Individual or Group|
 | -----------------: | --------------: |--------------:|
-| [Counting words](https://github.com/lucianli123/project1-counting-words/tree/main) | 9/16 | Individual |
-| [Scraping and APIs](https://github.com/lucianli123/project2-api) | 9/30 | Individual |
-| [Final Proposal](https://docs.google.com/document/d/1R64xw_oFINtO-XhuSry771zzT-ePb8OD9cIvTJtp7tA/edit?usp=sharing) | 9/30 | Group |
-| [Embeddings and Neural Networks](https://github.com/lucianli123/project3-embeddings) | 10/23 | Individual |
-| [Final Project Data Update](https://docs.google.com/document/d/1xhEW3CKEZ_XKzvAhbtv5jWMlE-6uFReMo3s6nYnQNKw/edit?usp=sharing) | 11/4 | Group |
-| [LLMs and Networks](https://github.com/lucianli123/project4-graphs-llms) | 11/20 | Individual |
-| [Final presentation](https://docs.google.com/document/d/1hHkFzTwmGNWSIy9S_vWu_-5MGztfuHwrtG4cnVSDECA/edit?usp=sharing) | 12/2 and 12/4 | Group |
-| [Final report](https://lucianli123.github.io/is310-culture-as-data-2024/assessments/04-example-project) | 12/15 | Group |
+| [Counting words](https://github.com/lucianli123/project1-counting-words/tree/main) | 2/6 | Individual |
+| [Scraping and APIs](https://github.com/lucianli123/project2-api) | 2/27 | Individual |
+| [Final Proposal](https://docs.google.com/document/d/1R64xw_oFINtO-XhuSry771zzT-ePb8OD9cIvTJtp7tA/edit?usp=sharing) | 2/27 | Group |
+| [Embeddings and Neural Networks](https://github.com/lucianli123/project3-embeddings) | 3/14 | Individual |
+| [Final Project Data Update](https://docs.google.com/document/d/1xhEW3CKEZ_XKzvAhbtv5jWMlE-6uFReMo3s6nYnQNKw/edit?usp=sharing) | 3/31 | Group |
+| [LLMs and Networks](https://github.com/lucianli123/project4-graphs-llms) | 4/1 | Individual |
+| [Final presentation](https://docs.google.com/document/d/1hHkFzTwmGNWSIy9S_vWu_-5MGztfuHwrtG4cnVSDECA/edit?usp=sharing) | 4/29 and 5/1 | Group |
+| [Final report](https://lucianli123.github.io/is310-culture-as-data-2024/assessments/04-example-project) | 5/11 | Group |
