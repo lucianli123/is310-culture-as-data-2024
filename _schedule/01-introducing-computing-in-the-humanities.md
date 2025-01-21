@@ -10,7 +10,7 @@ class_date: 2024-08-28
 - Overview and review the syllabus
 - Discuss "What is computing in the humanities?" 
   - [https://pudding.cool/2023/10/genre/](https://pudding.cool/2023/10/genre/)
-  - [https://www.nytimes.com/interactive/2024/08/23/us/politics/rnc-dnc-words.html?unlocked_article_code=1.F04.xiEW.G2IqEZ2gmhL2&smid=url-share](https://www.nytimes.com/interactive/2024/08/23/us/politics/rnc-dnc-words.html?unlocked_article_code=1.F04.xiEW.G2IqEZ2gmhL2&smid=url-share)
+  - [NYT: Trump's Inaugration words](https://www.nytimes.com/interactive/2025/01/20/us/politics/presidents-inaugural-address-speech.html?unlocked_article_code=1.q04.S--D.k_q5ztwg0Gvh&smid=url-share)
 
 ## Homework
 
