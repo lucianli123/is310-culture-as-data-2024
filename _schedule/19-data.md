@@ -1,6 +1,6 @@
 ---
 title: "Making it Count"
-permalink: /schedule/03-change-over-time-histories-of-computing/
+permalink: /schedule/19-data/
 toc: true
 class_date: 2024-09-04
 ---
