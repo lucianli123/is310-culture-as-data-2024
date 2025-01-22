@@ -9,6 +9,7 @@ class_date: 2024-09-04
 
 - [x] Discuss the assigned readings.
 - [ ] Introduction to Bag of Words, N-grams, and TF-IDF
+
 Explore the following projects and answer the Google Doc questions:
 
 - Bollen, Johan, Marijn Ten Thij, Fritz Breithaupt, Alexander TJ Barron, Lauren A. Rutter, Lorenzo Lorenzo-Luaces, and Marten Scheffer. "Historical language records reveal a surge of cognitive distortions in recent decades." Proceedings of the National Academy of Sciences 118, no. 30 (2021): e2102061118. [https://www.pnas.org/doi/full/10.1073/pnas.2102061118](https://www.pnas.org/doi/full/10.1073/pnas.2102061118)
