@@ -2,7 +2,7 @@
 title: "Making it Count"
 permalink: /schedule/19-data/
 toc: true
-class_date: 2024-09-04
+class_date: 2025-01-28
 ---
 
 ## In-Class Agenda
