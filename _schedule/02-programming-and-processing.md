@@ -2,7 +2,7 @@
 title: "Programming and Processing"
 permalink: /schedule/02-programming-and-processing/
 toc: true
-class_date: 2024-08-26
+class_date: 2025-01-23
 ---
 
 ## In-Class Agenda
@@ -26,7 +26,7 @@ class_date: 2024-08-26
 
 ## Homework
 
-- [ ] Complete a forum post and hypothesis annotations for the readings for next week (Canvas discussion, due 9/3)
+- [ ] Complete a forum post and hypothesis annotations for the readings for next week (Canvas discussion, due 1/27)
 - [ ] Complete to the best of your ability the installations for the course tools, available [here]({{site.baseurl}}//materials/introducing-humanities-computing/01-course-tools/). Please reach out to TA and instructor if you run into any issues!
-- [ ] Post screenshots of your VSCODE with Github Copilot running, pandas import, and anaconda environment (Canvas, due 9/3)
-- [ ] Post screenshots of completed quizzes from textbooks (Canvas, due 9/3)
+- [ ] Post screenshots of your VSCODE with Github Copilot running, pandas import, and anaconda environment (Canvas, due 1/28)
+- [ ] Post screenshots of completed quizzes from textbooks (Canvas, due 1/28)
