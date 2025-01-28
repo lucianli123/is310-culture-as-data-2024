@@ -2,13 +2,11 @@
 title: "Making it Count"
 permalink: /schedule/03-change-over-time-histories-of-computing/
 toc: true
-class_date: 2024-09-04
+class_date: 2025-01-30
 ---
 
 ## In-Class Agenda
 
-- [x] Discuss the assigned readings.
-- [ ] Introduction to Bag of Words, N-grams, and TF-IDF
 
 Explore the following projects and answer the Google Doc questions:
 
