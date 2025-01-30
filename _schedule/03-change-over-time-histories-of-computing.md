@@ -17,5 +17,5 @@ Be sure to play around with a few different settings and words for the last two 
 
 ## Assignments
 
-- [ ] Complete the [Counting Words](https://github.com/lucianli123/project1-counting-words/tree/main) assignment. Due 2/6
+- [ ] Work on the [Counting Words](https://github.com/lucianli123/project1-counting-words/tree/main) assignment. We will discuss parts 3 and 4 next week, so you can take a look or wait to finish. Due 2/11
 - [ ] Complete a Canvas post for next Tuesday's readings by Monday
