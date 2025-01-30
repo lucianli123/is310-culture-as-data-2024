@@ -39,7 +39,7 @@ Remember that due dates for these are flexible. Assignments have an automatic on
 
 |   Assignment Name  | Due Date | Individual or Group|
 | -----------------: | --------------: |--------------:|
-| [Counting words](https://github.com/lucianli123/project1-counting-words/tree/main) | 2/6 | Individual |
+| [Counting words](https://github.com/lucianli123/project1-counting-words/tree/main) | 2/11 | Individual |
 | [Scraping and APIs](https://github.com/lucianli123/project2-api) | 2/27 | Individual |
 | [Final Proposal](https://docs.google.com/document/d/1R64xw_oFINtO-XhuSry771zzT-ePb8OD9cIvTJtp7tA/edit?usp=sharing) | 2/27 | Group |
 | [Embeddings and Neural Networks](https://github.com/lucianli123/project3-embeddings) | 3/14 | Individual |
