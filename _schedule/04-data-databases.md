@@ -2,7 +2,7 @@
 title: "Data and Databases"
 permalink: /schedule/04-data-databases/
 toc: true
-class_date: 2024-09-9
+class_date: 2025-02-04
 ---
 
 ## In-Class Agenda
@@ -19,4 +19,4 @@ class_date: 2024-09-9
 
 ## Assignments
 
-- [ ] Continue working on the project. Come prepared with roadblocks or questions on Wednesday. 
+- [ ] Continue working on the project. Come prepared with roadblocks or questions on Thursday. 
