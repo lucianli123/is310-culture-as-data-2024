@@ -11,7 +11,7 @@ class_date: 2025-01-23
 - [x] Discuss the assigned readings.
 - [x] Troubleshoot course installations [here]({{site.baseurl}}//materials/introducing-humanities-computing/01-course-tools/).
 - [x] Basic Python: [introduction](https://python-textbook.pythonhumanities.com/01_intro/01_02-02_data.html#what-is-data).
-- [ ] [https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917](https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917)
+- [ ] [slides](https://docs.google.com/presentation/d/1H_eAxwhLyz0V9uEtRXmfYReiwgLfPiogLFhPxOla1hc/edit?usp=sharing)
 
 ## Assigned Materials
 
