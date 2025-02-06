@@ -2,7 +2,7 @@
 title: "Data and Databases"
 permalink: /schedule/05-topics-and-clustering/
 toc: true
-class_date: 2024-09-11
+class_date: 2025-02-6
 ---
 
 ## In-Class Agenda
@@ -13,6 +13,6 @@ class_date: 2024-09-11
 
 ## Assignments
 
-- [ ] Project due on 9/16
-- [ ] Discussion post and hypothesis annotations for next Monday due on 9/16
+- [ ] Project due on 2/11 with automatic extension
+- [ ] Discussion post and hypothesis annotations for next Tuesday due on 2/10 midnight
 
