@@ -2,7 +2,7 @@
 title: "How do we get data?"
 permalink: /schedule/06-getting-data/
 toc: true
-class_date: 2024-9-16
+class_date: 2024-2-6
 ---
 
 ## In-Class Agenda
@@ -19,6 +19,6 @@ class_date: 2024-9-16
 
 ## Assignments
 
-- [ ] Complete the Web Scraping Project (Due 9/30)
+- [ ] Complete the Web Scraping Project (Due 2/27)
 - [ ] Meet with group members about project details
-- [ ] Proposal due 9/30
+- [ ] Proposal due 2/27
