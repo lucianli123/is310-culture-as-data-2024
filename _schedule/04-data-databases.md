@@ -9,7 +9,7 @@ class_date: 2025-02-04
 
 - [x] Discuss our readings
 - [x] Pandas demo and project questions
-
+- [x] [slides](https://docs.google.com/presentation/d/1h6hvXc-gVDwbJ_BNyGTOoEpHrTbgb0tAwIEHYnIGbNk/edit?usp=sharing)
 ## Assigned Materials
 
 - David Eltis et al., *Slave Voyages: The Trans-Atlantic Slave Trade Database*, [https://www.slavevoyages.org/](https://www.slavevoyages.org/)
