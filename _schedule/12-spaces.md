@@ -2,13 +2,13 @@
 title: "Spaces of Culture"
 permalink: /schedule/12-spaces/
 toc: true
-class_date: 2024-09-30
+class_date: 2025-03-04
 ---
 
 ## In-Class Agenda
 
 - [ ] Discuss the assigned materials
-- [ ] Share cleaning activity
+- [ ] [https://playground.tensorflow.org/](Neural Network playground)
 
 ## Assigned Materials
 
