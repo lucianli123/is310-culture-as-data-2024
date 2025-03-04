@@ -8,7 +8,7 @@ class_date: 2025-03-04
 ## In-Class Agenda
 
 - [ ] Discuss the assigned materials
-- [ ] [Neural Network Playground]([Neural Network playground](https://playground.tensorflow.org/))
+- [ ] [Neural Network Playground](https://playground.tensorflow.org/)
 
 ## Assigned Materials
 
