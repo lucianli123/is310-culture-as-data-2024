@@ -2,7 +2,7 @@
 title: "LLMs and Humanistic Inquiry"
 permalink: /schedule/13-llms/
 toc: true
-class_date: 2024-10-14
+class_date: 2025-3-11
 ---
 
 ## In Class Agenda
