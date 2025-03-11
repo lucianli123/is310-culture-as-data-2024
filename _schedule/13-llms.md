@@ -8,8 +8,7 @@ class_date: 2024-10-14
 ## In Class Agenda
 
 - [ ] Discuss readings
-- [ ] LLMs group activity
-
+- [ ] [https://github.com/lucianli123/huggingface-demo](https://github.com/lucianli123/huggingface-demo)
 ## Assigned Materials
 
 - [ ] HuggingFace "BERT 101" [https://huggingface.co/blog/bert-101](https://huggingface.co/blog/bert-101)
