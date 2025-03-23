@@ -28,11 +28,12 @@ This overview gives a top level view of the topics for each of our meetings. You
 |[2/25 - Datasets and Data Cleaning]({{site.baseurl}}/schedule/10-datasets/)|[2/27 - Data Preprocessing, cleaning, etc](https://github.com/lucianli123/embeddings-demo)|
 |[3/4 - Spaces of Culture]({{site.baseurl}}/schedule/12-spaces/)|[3/6 - Embeddings and Neural Networks](https://docs.google.com/document/d/18ewRpeb8RR42ExBqrKgbm2tHG5mh-Xuq-moKMJPgL6k/edit?usp=sharing)|
 |[3/11 - Language Modelling]({{site.baseurl}}/schedule/13-llms/) | [3/13 - class cancelled|
-|[3/18 - Prompts and Agents]({{site.baseurl}}/schedule/14-prompting/) | |
-|[3/25 - Images]({{site.baseurl}}/schedule/15-images/) | [3/27 - CNNs and Image Processing)](https://github.com/lucianli123/llm-api-demo)|
-|[4/1 - Networks]({{site.baseurl}}/schedule/16-networks/)| [4/3 - Network Analysis at Scale)](https://github.com/lucianli123/project4-graphs-llms)|
-|[4/8 - Geographic Visualization]({{site.baseurl}}/schedule/17-GIS/)| [4/10 - GIS)](https://github.com/lucianli123/mapping-demo)|
-|[4/15 - OCR and Digital Archives]({{site.baseurl}}/schedule/18-ocr/)| [4/17 - Static Sites)]()|
+
+| 3/25 Catch up and project feedback | [3/27 - Prompts and Agents]({{site.baseurl}}/schedule/14-prompting/)|
+|[4/1 - Images]({{site.baseurl}}/schedule/15-images/) | [4/3 - CNNs and Image Processing)](https://github.com/lucianli123/llm-api-demo)|
+|[4/8 - Networks]({{site.baseurl}}/schedule/16-networks/)| [4/10 - Network Analysis at Scale)](https://github.com/lucianli123/project4-graphs-llms)|
+|[4/15 - Geographic Visualization]({{site.baseurl}}/schedule/17-GIS/)| [4/17 - GIS)](https://github.com/lucianli123/mapping-demo)|
+|[4/22 - OCR and Digital Archives]({{site.baseurl}}/schedule/18-ocr/)| [4/24 - Static Sites)]()|
 
 ## Projects
 Remember that due dates for these are flexible. Assignments have an automatic one week extension with no questions. After that, please reach out to the instructors with your concerns and a plan for completion, and points will not be deducted for late work. 
