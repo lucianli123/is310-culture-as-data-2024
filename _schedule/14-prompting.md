@@ -8,7 +8,6 @@ class_date: 2024-10-14
 ## In Class Agenda
 
 - [ ] Discuss readings
-- [ ] Class will be remote at [https://illinois.zoom.us/j/82055853773?pwd=OsjtECbFs8VFwdtfQnMYlt92VF5kqd.1](https://illinois.zoom.us/j/82055853773?pwd=OsjtECbFs8VFwdtfQnMYlt92VF5kqd.1)
 
 
 ## Assigned Materials
