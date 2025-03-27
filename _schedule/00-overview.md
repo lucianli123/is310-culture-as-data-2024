@@ -44,6 +44,6 @@ Remember that due dates for these are flexible. Assignments have an automatic on
 | [Final Proposal](https://docs.google.com/document/d/1R64xw_oFINtO-XhuSry771zzT-ePb8OD9cIvTJtp7tA/edit?usp=sharing) | 2/27 | Group |
 | [Embeddings and Neural Networks](https://github.com/lucianli123/project3-embeddings) | 3/24 | Individual |
 | [Final Project Data Update](https://docs.google.com/document/d/1xhEW3CKEZ_XKzvAhbtv5jWMlE-6uFReMo3s6nYnQNKw/edit?usp=sharing) | 3/31 | Group |
-| [LLMs and Networks](https://github.com/lucianli123/project4-graphs-llms) | 4/1 | Individual |
+| [LLMs and Networks](https://github.com/lucianli123/project4-graphs-llms) | 4/10 | Individual |
 | [Final presentation](https://docs.google.com/document/d/1hHkFzTwmGNWSIy9S_vWu_-5MGztfuHwrtG4cnVSDECA/edit?usp=sharing) | 4/29 and 5/1 | Group |
 | [Final report](https://lucianli123.github.io/is310-culture-as-data-2024/assessments/04-example-project) | 5/11 | Group |
