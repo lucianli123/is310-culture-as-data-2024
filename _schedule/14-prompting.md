@@ -8,6 +8,7 @@ class_date: 2024-10-14
 ## In Class Agenda
 
 - [ ] Discuss readings
+- [ ] [Slides](https://docs.google.com/presentation/d/1c60vcMzMBJ82VJmELWIQur1hAjojvgnRuVCBAVs--OU/edit?usp=sharing)
 
 
 ## Assigned Materials
