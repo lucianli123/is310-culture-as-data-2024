@@ -29,7 +29,7 @@ This overview gives a top level view of the topics for each of our meetings. You
 |[3/4 - Spaces of Culture]({{site.baseurl}}/schedule/12-spaces/)|[3/6 - Embeddings and Neural Networks](https://docs.google.com/document/d/18ewRpeb8RR42ExBqrKgbm2tHG5mh-Xuq-moKMJPgL6k/edit?usp=sharing)|
 |[3/11 - Language Modelling]({{site.baseurl}}/schedule/13-llms/) | [3/13 - class cancelled|
 | 3/25 Catch up and project feedback | [3/27 - Prompts and Agents]({{site.baseurl}}/schedule/14-prompting/)|
-|[4/1 - Images]({{site.baseurl}}/schedule/15-images/) | [4/3 - CNNs and Image Processing)](https://github.com/lucianli123/llm-api-demo)|
+|Class Cancelled | [4/3 - Images]({{site.baseurl}}/schedule/15-images/) |
 |[4/8 - Networks]({{site.baseurl}}/schedule/16-networks/)| [4/10 - Network Analysis at Scale)](https://github.com/lucianli123/project4-graphs-llms)|
 |[4/15 - Geographic Visualization]({{site.baseurl}}/schedule/17-GIS/)| [4/17 - GIS)](https://github.com/lucianli123/mapping-demo)|
 |[4/22 - OCR and Digital Archives]({{site.baseurl}}/schedule/18-ocr/)| [4/24 - Static Sites)]()|
@@ -44,6 +44,6 @@ Remember that due dates for these are flexible. Assignments have an automatic on
 | [Final Proposal](https://docs.google.com/document/d/1R64xw_oFINtO-XhuSry771zzT-ePb8OD9cIvTJtp7tA/edit?usp=sharing) | 2/27 | Group |
 | [Embeddings and Neural Networks](https://github.com/lucianli123/project3-embeddings) | 3/24 | Individual |
 | [Final Project Data Update](https://docs.google.com/document/d/1xhEW3CKEZ_XKzvAhbtv5jWMlE-6uFReMo3s6nYnQNKw/edit?usp=sharing) | 3/31 | Group |
-| [LLMs and Networks](https://github.com/lucianli123/project4-graphs-llms) | 4/10 | Individual |
+| [LLMs and Networks](https://github.com/lucianli123/project4-graphs-llms) | 4/15 | Individual |
 | [Final presentation](https://docs.google.com/document/d/1hHkFzTwmGNWSIy9S_vWu_-5MGztfuHwrtG4cnVSDECA/edit?usp=sharing) | 4/29 and 5/1 | Group |
 | [Final report](https://lucianli123.github.io/is310-culture-as-data-2024/assessments/04-example-project) | 5/11 | Group |
