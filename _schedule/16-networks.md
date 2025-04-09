@@ -8,6 +8,7 @@ class_date: 2024-11-4
 
 - Discuss readings
 - Class activity
+- [slides](https://docs.google.com/presentation/d/1A844x8lctMiVxXl_YI74JGSKsgQYEiXqkQpcmYo-S5Y/edit?usp=sharing)
 
 ## Readings
 
