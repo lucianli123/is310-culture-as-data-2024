@@ -32,7 +32,7 @@ This overview gives a top level view of the topics for each of our meetings. You
 |Class Cancelled | [4/3 - Images]({{site.baseurl}}/schedule/15-images/) |
 |[4/8 - Networks]({{site.baseurl}}/schedule/16-networks/)| [4/10 - Network Analysis at Scale)](https://github.com/lucianli123/project4-graphs-llms)|
 |[4/15 - Geographic Visualization]({{site.baseurl}}/schedule/17-GIS/)| [4/17 - GIS)](https://github.com/lucianli123/mapping-demo)|
-|[4/22 - OCR and Digital Archives]({{site.baseurl}}/schedule/18-ocr/)| [4/24 - Static Sites)]()|
+|[4/22 - Lecture from Xiaoning, no readings!)| [4/24 - Static Sites)]()|
 
 ## Projects
 Remember that due dates for these are flexible. Assignments have an automatic one week extension with no questions. After that, please reach out to the instructors with your concerns and a plan for completion, and points will not be deducted for late work. 
